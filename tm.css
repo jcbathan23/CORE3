@@ -1,0 +1,33 @@
+a.disabled {
+    color: gray;
+    pointer-events: none;
+  }
+span.white-text{
+    color: white !important;
+
+    
+}
+.bg-side{
+    background: #4A628A !important ;
+}
+.nav-item{
+     color: white ;
+     
+}
+.nav-link{
+    color: white !important;
+   
+}
+.nav-link li a:hover{
+    background-color: #000000 ;
+    border-radius: 5px;
+}
+.nav-link li .active{
+    background-color: #000000 !important;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 5px;
+}
+.dropdown-item:hover{
+    background-color: #000000 ;
+}
